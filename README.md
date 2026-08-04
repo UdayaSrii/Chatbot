@@ -15,11 +15,3 @@ An AI chatbot built using:
 ✅ Chat history support  
 ✅ Fast responses using Groq LLM  
 ✅ Simple Streamlit interface  
-
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/UdayaSrii/AI-Chatbot-LangChain-Groq.git

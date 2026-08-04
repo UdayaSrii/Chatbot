@@ -22,4 +22,4 @@ An AI chatbot built using:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AI-Chatbot-LangChain-Groq.git
+git clone https://github.com/UdayaSrii/AI-Chatbot-LangChain-Groq.git
